@@ -1,9 +1,11 @@
-# [RBC-Module-1-Kickstarter-Analysis]
+# RBC-Module-1-Kickstarter-Analysis
 
 ## Overview of Project
+Louise who is starting up her own Kickstarter Campaign wanted us to help her start a campaign. For this we were provided with a Dataset for analysis.
+[Link to Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 
 ### Purpose
-The purpose of this project was to provide a thorough analysis based on the Kickstarter Campaigns dataset, which had a sample population of more than 4000 campaigns across multiple countries, categories and subcategories. The project helped us find trends between successful, failed and canceled campaigns.
+The purpose of this project was to provide Louise with a thorough analysis based on the Kickstarter Campaigns dataset, which had a sample population of more than 4000 campaigns across multiple countries, categories and subcategories. The project helped us find trends between successful, failed and canceled campaigns.
 
 ## Analysis and Challenges
 The process used to perform the analysis and providing this written report was done through various steps in order:
