@@ -1,4 +1,4 @@
-# RBC-Module-1-Kickstarter-Analysis
+# [RBC-Module-1-Kickstarter-Analysis]
 
 ## Overview of Project
 
@@ -14,12 +14,16 @@ The process used to perform the analysis and providing this written report was d
 ### Analysis of Outcomes Based on Launch Date
 The line graph below shows the relationship between the Kickstarter Campaign Launch Dates, which are defined by specific months based on a yearly calender. The years filter is available but not applied as we are trying to find a corelation between the months of the launch date and the count of the campaign outcomes which are categorized into three major categories of "successful", "failed" and "canceled". Since our analysis is focused on providing Louise with a clearer picture on a particular subset of the Parent category, namely "plays", this filter is applied to the table.
 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+<p align="center">
+  <img src="https://github.com/mubeenkh4u/RBC-Module-1-Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png">
+</p>
 
 ### Analysis of Outcomes Based on Goals
 The line graph shown below provides a visual representation of the relationship between Percentage of all the Outcomes based on there respective outcomes of successful, failed, canceled and live, while using their respective goals amount (in $) and created ranges for the graph.
 
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+<p align="center">
+  <img src="https://github.com/mubeenkh4u/RBC-Module-1-Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png">
+</p>
 
 ### Challenges and Difficulties Encountered
 After having worked on this project, I have realized the potential of Excel as a data analytics tool for extracting and filtering necessary and relevant information from a particular dataset to recognize patterns and trends in a meaningful way, all the while creating graphs for a supplemental visual representation. The challenges that I had faced include:
@@ -42,5 +46,15 @@ The line graph for "Percentage Failed" is an approximate mirror image of the "Pe
 
 - What are some other possible tables and/or graphs that we could create?
 1. An additional graph as shown below is a Box and Whisker plot for the UK "Plays".
+
+<p align="center">
+  <img src="https://github.com/mubeenkh4u/RBC-Module-1-Kickstarter-Analysis/blob/main/Box_Whisker_GB_Musical.png">
+</p>
+
 2. An additional graph as shown below is a Outcomes vs Parent Category which is filtered to "Theater".
+
+<p align="center">
+  <img src="https://github.com/mubeenkh4u/RBC-Module-1-Kickstarter-Analysis/blob/main/Outcomes_vs_Theater.png">
+</p>
+
 3. Another graph that we could have used to further analyze the kickstarter campaign dataset would have been to create a form of correlation between the length of the campaigns (possibly within the "Plays" subcategory) to see what average length was to be expected for a successful kickstarter campaign.
