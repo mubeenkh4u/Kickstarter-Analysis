@@ -1,4 +1,4 @@
-# RBC-Module-1-Kickstarter-Analysis
+# Kickstarter-Analysis
 
 ## Overview of Project
 Louise who is starting up her own Kickstarter Campaign wanted us to help her start a campaign. For this we were provided with a Dataset for analysis.
